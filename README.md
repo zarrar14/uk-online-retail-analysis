@@ -23,5 +23,5 @@ This project analyses a UK-based online retailer dataset across four key areas u
 
 - `Assignment_Template.Rmd` – R Markdown source file with all code, comments, and interpretations
 - `Assignment_Template.pdf` – Rendered PDF report with all tables, ggplot2 visualisations, and analysis
-- `project_orders.csv` – Transactional orders data (InvoiceNo, StockCode, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
+- `project_orders.zip` – Transactional orders data (InvoiceNo, StockCode, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
 - `project_product_info.csv` – Product details data (StockCode, Description)
