@@ -14,18 +14,14 @@ This project analyses a UK-based online retailer dataset across four key areas u
 - **Part 4 – Temporal Analysis & Trends:** Extracted monthly revenue trends, identified peak sales months, and flagged consistently low-selling products over time.
 
 ## Tech Stack
-
+    
 - **Language:** R
 - **Libraries:** tidyverse, ggplot2, dplyr, kableExtra, lubridate
 - **Report Format:** R Markdown (PDF output)
-
-## Key Findings
-
-- The Top 3 products contributed ~4.8% of total revenue
-- The United Kingdom accounted for over 90% of global sales
-- A small set of products consistently underperformed across multiple months
 
 ## Repository Contents
 
 - `Assignment_Template.Rmd` – R Markdown source file with all code, comments, and interpretations
 - `Assignment_Template.pdf` – Rendered PDF report with all tables, ggplot2 visualisations, and analysis
+- `project_orders.csv` – Transactional orders data (InvoiceNo, StockCode, Quantity, InvoiceDate, UnitPrice, CustomerID, Country)
+- `project_product_info.csv` – Product details data (StockCode, Description)
